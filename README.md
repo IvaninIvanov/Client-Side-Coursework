@@ -5,6 +5,9 @@ Welcome to the first coursework for the Web Script Programming unit.  This folde
 
 This is an individual coursework, so whilst you are allowed to discuss both the challenges _and_ the approaches you might take to tackling them, all work must be your own.
 
+## Formating
+All tasks have been completed under the comments with corresponding task names. Some additional functionality has been implemented outside of those code blocks and have been commented appropriately. 
+
 ## Scenario
 
 The scenario is that we're building a web-based game, and you're joining the development team.  The game is not finished, but we have a basic framework working.
@@ -16,5 +19,3 @@ Unit tests are in the same format that you have completed week on week.  For thi
 
 
 
-## Submission / Upload
-When you have completed all the tests to the best of your ability, upload your `index.js` file to the dropbox on moodle.
