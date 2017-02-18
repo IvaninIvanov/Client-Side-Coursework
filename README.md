@@ -5,7 +5,7 @@ Welcome to the first coursework for the Web Script Programming unit.  This folde
 
 This is an individual coursework, so whilst you are allowed to discuss both the challenges _and_ the approaches you might take to tackling them, all work must be your own.
 
-## Formating
+## Student: Formating
 All tasks have been completed under the comments with corresponding task names. Some additional functionality has been implemented outside of those code blocks and have been commented appropriately. 
 
 ## Scenario
